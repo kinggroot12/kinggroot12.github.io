@@ -16,8 +16,8 @@ author: kinggroot
 navbar-links:
   About Me: "aboutme"
   Write-Ups:
-    - OSCP / CTF: "home"
-    - Security Concepts: "home"
+    - OSCP / CTF: "/tag/oscp-ctf"
+    - Security Concepts: "/tag/concepts"
   Bug Bounty:
   
   
